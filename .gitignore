@@ -1,0 +1,11 @@
+#Ignoring out folder
+out
+
+#Ignoring .idea folder
+.idea
+
+#Ignoring .DS_Store
+.DS_Store
+
+#Ignoring iml files
+*.iml
